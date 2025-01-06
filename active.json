@@ -1,12 +1,17 @@
 [
     {
-        "licenseKey": "xss_id",
+        "licenseKey": "admin123",
         "expirationDate": "2025-02-06",
-        "assignedTo": "" // This will be updated to the username once assigned
+        "assignedTo": "xss_id"
     },
     {
-        "licenseKey": "abc123",
-        "expirationDate": "2025-02-06",
-        "assignedTo": "john_doe" // Already assigned to "john_doe"
+        "licenseKey": "93737463ksks",
+        "expirationDate": "2025-03-01",
+        "assignedTo": "another_user"
+    },
+    {
+        "licenseKey": "47384753jdkd",
+        "expirationDate": "2025-04-15",
+        "assignedTo": ""
     }
 ]
